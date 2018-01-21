@@ -1,4 +1,4 @@
-# Digital-Image-Processing-Fall-2017-Project
+# Digital-Image-Processing-Fall-2017-Winter-2018-Project
 The repo for complete source code for image processing fall 2017 term project.
 
 Pleae keep 'image_processing_assgnmnt_1.fig', 'image_processing_assgnmnt_1' and 'imProcessor' files in the same folder.
